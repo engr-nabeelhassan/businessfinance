@@ -50,7 +50,7 @@ function Footer() {
             <h4 className="text-lg font-semibold mb-4">{t("followUs")}</h4>
             <div className="flex justify-center md:justify-start space-x-4">
               <a 
-                href="https://instagram.com/businessfinance" 
+                href="https://instagram.com/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="group flex items-center justify-center w-12 h-12 bg-gradient-to-br from-pink-500 to-purple-600 rounded-full hover:scale-110 transition-all duration-300 shadow-lg hover:shadow-xl"
@@ -58,7 +58,7 @@ function Footer() {
                 <FaInstagram className="text-white text-xl group-hover:animate-pulse" />
               </a>
               <a 
-                href="https://facebook.com/businessfinance" 
+                href="https://facebook.com/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="group flex items-center justify-center w-12 h-12 bg-gradient-to-br from-blue-600 to-blue-800 rounded-full hover:scale-110 transition-all duration-300 shadow-lg hover:shadow-xl"
@@ -66,7 +66,7 @@ function Footer() {
                 <FaFacebook className="text-white text-xl group-hover:animate-pulse" />
               </a>
               <a 
-                href="https://youtube.com/businessfinance" 
+                href="https://youtube.com/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="group flex items-center justify-center w-12 h-12 bg-gradient-to-br from-red-500 to-red-700 rounded-full hover:scale-110 transition-all duration-300 shadow-lg hover:shadow-xl"
